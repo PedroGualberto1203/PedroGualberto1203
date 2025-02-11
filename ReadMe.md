@@ -1,5 +1,19 @@
 # 💫 About Me:
-Sou estudante de Front/Back end<br>Estou a procura de estágio <br>
+Sou estudante de Front/Backend<br>Estou a procura de estágio em desenvolvimento.
+Cursando engenharia de
+software(bacharelado) na
+faculdade UniAlfa, já fiz alguns
+trabalhos remunerados (por conta
+própria) na área de manutenção
+de hardware/software.
+Atualmente estou no quarto
+período, faço projetos pessoais
+como criação de sites e jogos, e
+estou aprofundando meus
+conhecimentos em Git e Github,
+minha especialidade inclui HTML,
+CSS, Tailwind, JavaScript, SQL e React. 
+Ultima esperiência profissional foi como estagiário de TI na Open Data Center, empresa de infraestrutura de dados em nuvem.<br>
 
 
 ## 🌐 Socials:
