@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front/Backend<br>Estou a procura de estágio em desenvolvimento.
+Desenvolvedor Full-Stack<br>Estou a procura de estágio em desenvolvimento.
 Cursando engenharia de
 software(bacharelado) na
 faculdade UniAlfa, já fiz alguns
