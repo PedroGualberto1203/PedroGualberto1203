@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Back-End.<br>Sou estudante de Engenharia de Software pela UniAlfa, atualmente no quinto período, e estou em busca de uma oportunidade de estágio na área de desenvolvimento de sistemas.
+Desenvolvedor FULL STACK.<br>Sou estudante de Engenharia de Software pela UniAlfa, atualmente no quinto período, e estou em busca de uma oportunidade de estágio na área de desenvolvimento de sistemas.
 
 Tenho paixão por tecnologia desde cedo, com experiências anteriores em manutenção de hardware/software e projetos remunerados como freelancer. Atualmente, atuo com C#, .NET, JavaScript, SQL, ASP.NET, HTML e CSS (Tailwind).
 
