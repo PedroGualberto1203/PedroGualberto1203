@@ -14,7 +14,6 @@ Estou sempre em busca de evoluir, mantendo projetos pessoais como sites e jogos,
 Atenciosamente,
 Pedro Gualberto
 
-🔗 GitHub: github.com/PedroGualberto1203
 🔗 LinkedIn: linkedin.com/in/pedro-gualberto-9a2b62316<br>
 
 
