@@ -1,11 +1,11 @@
 # 💫 About Me:
 Desenvolvedor BACK-END.<br>Sou estudante de Engenharia de Software pela UniAlfa, atualmente no quinto período, e estou em busca de uma oportunidade de estágio na área de desenvolvimento de sistemas.
 
-Tenho paixão por tecnologia desde cedo, com experiências anteriores em manutenção de hardware/software e projetos remunerados como freelancer. Atualmente, atuo com C#, .NET, JavaScript, SQL, ASP.NET, HTML e CSS (Tailwind).
+Tenho paixão por tecnologia desde cedo, com experiências anteriores em manutenção de hardware/software e projetos voltandos ao desenvolvimento backend. Atualmente, atuo com C#, .NET, JavaScript, SQL, ASP.NET, HTML e CSS (Tailwind).
 
 Já trabalhei em um projeto na empresa Open Data Center, desenvolvi o Cardápio Online da empresa, um cardápio digital com carrinho de compras e uso da API do WhatsApp, utilizando Node.js, JavaScript, HTML, CSS e SQL, otimizando o atendimento interno da empresa.
 
-Hoje, desenvolvo um sistema web para a Perfil Acessórios, focado em gestão de produtos e clientes, com funcionalidades completas de CRUD e recursos voltados à presença digital e vendas online.
+Hoje, desenvolvo uma API REST para a Perfil Acessórios, focado em gestão de produtos e clientes, com funcionalidades completas de CRUD e recursos voltados à presença digital e vendas online.
 
 Também adquiri experiência com infraestrutura de TI, incluindo configurações de firewalls, máquinas virtuais e otimizações em sistemas Windows e Linux.
 
