@@ -1,5 +1,4 @@
 # 💫 About Me:
-Desenvolvedor BACK-END .NET Jr
 ### Pedro Gualberto Soares | Desenvolvedor Backend .NET
 
 Estudante de Engenharia de Software com foco no desenvolvimento de APIs e sistemas backend com o ecossistema .NET. Tenho experiência prática no desenvolvimento de aplicações fullstack, automação com APIs e infraestrutura de TI.
