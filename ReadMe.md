@@ -7,7 +7,7 @@ Estudante de Engenharia de Software com foco no desenvolvimento de APIs e sistem
 
 **Principais Habilidades:**
 - **Backend:** C#, .NET Core, ASP.NET, REST APIs, Entity Framework, Dapper
-- - **Frontend:** JavaScript, HTML, CSS
+- **Frontend:** JavaScript, HTML, CSS
 - **Bancos de Dados:** SQL Server, MySQL
 - **DevOps & Ferramentas:** Docker, Git, Azure, CI/CD, Postman, Swagger
 - **Boas Práticas:** Clean Architecture, SOLID, MVC, Clean Code
