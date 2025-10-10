@@ -1,18 +1,20 @@
 # 💫 About Me:
-Desenvolvedor BACK-END.<br>Sou estudante de Engenharia de Software pela UniAlfa, atualmente no quinto período, e estou em busca de uma oportunidade de estágio na área de desenvolvimento de sistemas.
+Desenvolvedor BACK-END .NET Jr
+### Pedro Gualberto Soares | Desenvolvedor Backend .NET
 
-Tenho paixão por tecnologia desde cedo, com experiências anteriores em manutenção de hardware/software e projetos voltandos ao desenvolvimento backend. Atualmente, atuo com C#, .NET, JavaScript, SQL, ASP.NET, HTML e CSS (Tailwind).
+[cite_start]Estudante de Engenharia de Software [cite: 36] com foco no desenvolvimento de APIs e sistemas backend com o ecossistema .NET. [cite_start]Tenho experiência prática no desenvolvimento de aplicações fullstack [cite: 16][cite_start], automação com APIs [cite: 20] [cite_start]e infraestrutura de TI[cite: 21].
 
-Já trabalhei em um projeto na empresa Open Data Center, desenvolvi o Cardápio Online da empresa, um cardápio digital com carrinho de compras e uso da API do WhatsApp, utilizando Node.js, JavaScript, HTML, CSS e SQL, otimizando o atendimento interno da empresa.
+[cite_start]**Atualmente estou desenvolvendo uma API REST com C# e ASP.NET Core, utilizando Clean Architecture, JWT, Entity Framework e Docker**[cite: 29, 30, 32, 33].
 
-Hoje, desenvolvo uma API REST para a Perfil Acessórios, focado em gestão de produtos e clientes, com funcionalidades completas de CRUD e recursos voltados à presença digital e vendas online.
+**Principais Habilidades:**
+- [cite_start]**Backend:** C#, .NET Core, ASP.NET, REST APIs, Entity Framework, Dapper [cite: 6, 7, 8]
+- [cite_start]**Bancos de Dados:** SQL Server, MySQL [cite: 9]
+- [cite_start]**DevOps & Ferramentas:** Docker, Git, Azure, CI/CD, Postman, Swagger [cite: 8, 11, 12]
+- [cite_start]**Boas Práticas:** Clean Architecture, SOLID, MVC, Clean Code [cite: 12]
 
-Também adquiri experiência com infraestrutura de TI, incluindo configurações de firewalls, máquinas virtuais e otimizações em sistemas Windows e Linux.
+**Busco uma oportunidade de estágio para colaborar em projetos desafiadores.**
 
-Estou sempre em busca de evoluir, mantendo projetos pessoais como sites e jogos, ampliando minhas habilidades técnicas e criativas como desenvolvedor.
-
-Atenciosamente,
-Pedro Gualberto
+**[LinkedIn](https://www.linkedin.com/in/pedro-gualberto-9a2b62316)**
 
 🔗 LinkedIn: linkedin.com/in/pedro-gualberto-9a2b62316<br>
 
