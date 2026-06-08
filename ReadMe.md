@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Pedro Gualberto Soares | Desenvolvedor Backend .NET
+### Pedro Gualberto Soares | Desenvolvedor FullStack .NET
 
 Engenheiro de Software FullStack .NET. Tenho experiência prática no desenvolvimento de aplicações fullstack, automação com APIs e infraestrutura de TI.
 
