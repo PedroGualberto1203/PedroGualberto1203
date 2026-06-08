@@ -1,9 +1,9 @@
 # 💫 About Me:
 ### Pedro Gualberto Soares | Desenvolvedor Backend .NET
 
-Estudante de Engenharia de Software com foco no desenvolvimento de APIs e sistemas backend com o ecossistema .NET. Tenho experiência prática no desenvolvimento de aplicações fullstack, automação com APIs e infraestrutura de TI.
+Engenheiro de Software FullStack .NET. Tenho experiência prática no desenvolvimento de aplicações fullstack, automação com APIs e infraestrutura de TI.
 
-**Atualmente estou desenvolvendo uma API REST com C# e ASP.NET Core, utilizando Clean Architecture, JWT, Entity Framework e Docker**.
+**Atualmente estou desenvolvendo o projeto BEE na empresa DotKon**.
 
 **Principais Habilidades:**
 - **Backend:** C#, .NET Core, ASP.NET, REST APIs, Entity Framework, Dapper
@@ -11,8 +11,6 @@ Estudante de Engenharia de Software com foco no desenvolvimento de APIs e sistem
 - **Bancos de Dados:** SQL Server, MySQL
 - **DevOps & Ferramentas:** Docker, Git, Azure, CI/CD, Postman, Swagger
 - **Boas Práticas:** Clean Architecture, SOLID, MVC, Clean Code
-
-**Busco uma oportunidades para colaborar em projetos desafiadores.**
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/pedro-gualberto-9a2b62316)**
 
