@@ -1,25 +1,38 @@
-# 💫 About Me:
-### Pedro Gualberto Soares | Desenvolvedor FullStack .NET
+# 💫 Pedro Gualberto
 
-Engenheiro de Software FullStack .NET. Tenho experiência prática no desenvolvimento de aplicações fullstack, automação com APIs e infraestrutura de TI.
+### 👨‍💻 Full Stack Developer & Automation Specialist
 
-**Atualmente estou desenvolvendo o projeto BEE na empresa DotKon**.
+I am a Full Stack Developer focused on backend systems, automation, API integrations, and AI-powered workflows. I work mainly with C#, .NET, ASP.NET Core, SQL Server, Python, JavaScript, n8n, REST APIs, and webhooks.
 
-**Principais Habilidades:**
-- **Backend:** C#, .NET Core, ASP.NET, REST APIs, Entity Framework, Dapper
-- **Frontend:** JavaScript, HTML, CSS
-- **Bancos de Dados:** SQL Server, MySQL
-- **DevOps & Ferramentas:** Docker, Git, Azure, CI/CD, Postman, Swagger
-- **Boas Práticas:** Clean Architecture, SOLID, MVC, Clean Code
+Currently, I work as an AI Engineer, Automation Specialist, and Full-Stack Developer at dotkon | cloud & software services, developing enterprise solutions for operational and financial management.
 
-## 🌐 Socials:
+## 💻 Core Skills
+
+- Backend: C#, .NET, ASP.NET Core, REST APIs, Entity Framework, Dapper
+- Databases: SQL Server, relational databases, query optimization
+- Automation: n8n, Python, webhooks, workflow orchestration
+- AI: AI Agents, RAG pipelines, embeddings, LLM workflows
+- Integrations: CRMs, WhatsApp APIs, Stripe, PayPal, Shopify, HubSpot
+- DevOps: Git, Azure DevOps, CI/CD, deployments
+- Frontend: JavaScript, HTML, CSS, Razor Pages
+
+## 🛠️ Experience Highlights
+
+- Built automation infrastructure supporting 1.3M+ workflow executions per month
+- Improved critical API response time by up to 75%
+- Reduced recurring integration issues by 80%
+- Optimized SQL execution time by up to 62%
+- Automated workflows reducing manual work by 15+ hours per week
+- Developed AI chatbot and CRM automations for customer support, payments, and lead qualification
+
+## 📊 Featured Work
+
+- BEE enterprise platform for operational and financial management
+- AI WhatsApp chatbot integrated with CRMs, payments, and automation workflows
+- Online Menu system with Stripe Checkout and webhook-based payment automation
+
+## 🌐 Connect
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_gsgl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gualberto-28179327a/)
-
-# 💻 Tech Stack:
-C# | .NET | ASPNET | EntityFramework | SQLServer | HTML | CSS | JAVASCRIPT | GIT | GITHUB
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PedroGualberto1203&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PedroGualberto1203&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGualberto1203&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
