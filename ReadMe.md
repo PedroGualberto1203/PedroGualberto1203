@@ -15,7 +15,7 @@ Engenheiro de Software FullStack .NET. Tenho experiência prática no desenvolvi
 🔗 **[LinkedIn](https://www.linkedin.com/in/pedro-gualberto-9a2b62316)**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_gsgl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gualberto-9a2b62316/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_gsgl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gualberto-28179327a/)
 
 # 💻 Tech Stack:
 C# | .NET | ASPNET | EntityFramework | SQLServer | HTML | CSS | JAVASCRIPT | GIT | GITHUB
