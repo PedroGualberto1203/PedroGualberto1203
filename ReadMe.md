@@ -33,6 +33,6 @@ Currently, I work as an AI Engineer, Automation Specialist, and Full-Stack Devel
 
 ## 🌐 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_gsgl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gualberto-28179327a/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_gsgl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gualberto-28179327a/) [![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://portifolio-bay-mu.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
