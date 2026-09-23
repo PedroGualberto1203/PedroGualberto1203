@@ -8,12 +8,12 @@ Currently, I work as an AI Engineer, Automation Specialist, and Full-Stack Devel
 
 ## 💻 Core Skills
 
-- Backend: C#, .NET, ASP.NET Core, REST APIs, Entity Framework, Dapper
+- Backend: Python, C#, .NET, ASP.NET Core, REST APIs, Entity Framework, Pydantic, FastAPI
 - Databases: SQL Server, relational databases, query optimization
 - Automation: n8n, Python, webhooks, workflow orchestration
-- AI: AI Agents, RAG pipelines, embeddings, LLM workflows
+- AI: AI Agents, RAG pipelines, embeddings, LLM workflows, Pydantic AI
 - Integrations: CRMs, WhatsApp APIs, Stripe, PayPal, Shopify, HubSpot
-- DevOps: Git, Azure DevOps, CI/CD, deployments
+- DevOps: Git, Azure, Azure DevOps, CI/CD, deployments
 - Frontend: JavaScript, HTML, CSS, Razor Pages
 
 ## 🛠️ Experience Highlights
